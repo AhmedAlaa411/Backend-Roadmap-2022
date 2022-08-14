@@ -15,7 +15,7 @@ This roadmap is collected from many sources like
 ### we will study C# and asp.net in this Roadmap if you want to study another language skip C# and asp videos But watch every other video 
 ### Every phase will take 2 - 4 weeks if you study 5-6 hourse a day ,6 days at week
 ### So don't stop and never quit 
-
+### ذاكر كل ده مع بعضه بالتوازي ما عدا ال os ذاكرها بعد ال arch
 
 
 
