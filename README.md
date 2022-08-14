@@ -33,7 +33,7 @@ This roadmap is collected from many sources like
  ### Now we know what is programming so lets continue
  #### C# courses , if you want to study another language like php , js ,etc skip this 
  - [ لغة سي شارب C# - استخداماتها - مميزاتها - شرح كامل ](https://www.youtube.com/watch?v=R2RTqui-Z_g)
-  - [The best in my opinion (E)](https://www.udemy.com/course/complete-csharp-masterclass/)
+  - [Best C# course in my opinion (E)](https://www.udemy.com/course/complete-csharp-masterclass/)
  - [Learn C# 10 and .NET 6 in 7 hours (E)](https://www.youtube.com/watch?v=q_F4PyW8GTg)
  - [C# Unit Testing (E)](https://www.youtube.com/watch?v=GSTVFx0KOzI)
  - [Working With The File System in C# (E)](https://www.youtube.com/watch?v=9mUuJIKq40M)
