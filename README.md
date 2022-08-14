@@ -44,12 +44,18 @@ This roadmap is collected from many sources like
   ### Computer Science principles
 
   #### Arch   (don't ask why i study hardware you will know in the future) 
+   - [How cpu works (E)](https://www.youtube.com/watch?v=cNN_tTXABUA)
+  - [Transistors, How do they work? (E)](https://www.youtube.com/watch?v=7ukDKVHnac4)
+  - [شرح الترانزستور في 3 دقائق (A)](https://www.youtube.com/watch?v=jT-w5uGq9aw)
+
   - [Lecture 1 (E)](https://www.youtube.com/watch?v=9nuAjYRbITQ)
   - [Lecture 2 (E)](https://www.youtube.com/watch?v=foCkCSZXOt8)
   - [Lecture 3 (E)](https://www.youtube.com/watch?v=BHMETwOXvWw)
-  - [How cpu works (E)](https://www.youtube.com/watch?v=cNN_tTXABUA)
-  - [Transistors, How do they work? (E)](https://www.youtube.com/watch?v=7ukDKVHnac4)
-  - [شرح الترانزستور في 3 دقائق (A)](https://www.youtube.com/watch?v=jT-w5uGq9aw)
+  
+  #### OR 
+  
+   - [Computer Architecture (A)](https://www.youtube.com/watch?v=x_gE_TFEuow&list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ)
+ 
 
  #### Operating sestyms
   - [Operating System Full Course (E)](https://www.youtube.com/watch?v=mXw9ruZaxzQ)
