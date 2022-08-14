@@ -43,7 +43,7 @@ This roadmap is collected from many sources like
  
   ### Computer Science principles
 
-  #### Arch don't ask wht i study hardware you will know in thee future 
+  #### Arch don't ask why i study hardware you will know in the future 
   - [Lecture 1 (E)](https://www.youtube.com/watch?v=9nuAjYRbITQ)
   - [Lecture 2 (E)](https://www.youtube.com/watch?v=foCkCSZXOt8)
   - [Lecture 3 (E)](https://www.youtube.com/watch?v=BHMETwOXvWw)
