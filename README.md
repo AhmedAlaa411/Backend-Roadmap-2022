@@ -47,6 +47,7 @@ This roadmap is collected from many sources like
   - [Lecture 1 (E)](https://www.youtube.com/watch?v=9nuAjYRbITQ)
   - [Lecture 2 (E)](https://www.youtube.com/watch?v=foCkCSZXOt8)
   - [Lecture 3 (E)](https://www.youtube.com/watch?v=BHMETwOXvWw)
+  - [How cpu works (E)](https://www.youtube.com/watch?v=cNN_tTXABUA)
   - [Transistors, How do they work? (E)](https://www.youtube.com/watch?v=7ukDKVHnac4)
   - [شرح الترانزستور في 3 دقائق (A)](https://www.youtube.com/watch?v=jT-w5uGq9aw)
 
@@ -54,7 +55,6 @@ This roadmap is collected from many sources like
   - [Operating System Full Course (E)](https://www.youtube.com/watch?v=mXw9ruZaxzQ)
   - [Operating Systems and System Programming (E)](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
   - [Operating System book (E)](https://link.springer.com/book/10.1007/1-84628-843-6)
-  - [How cpu works (E)](https://www.youtube.com/watch?v=cNN_tTXABUA)
 
 
  #### UML 
